@@ -8,3 +8,4 @@ Homestead.yaml
 /bower_components
 /files
 /public/files/*
+socket.js
