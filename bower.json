@@ -1,0 +1,21 @@
+{
+  "name": "book",
+  "description": "laravel chat app",
+  "main": "",
+  "authors": [
+    "mirko91 <joticmirko@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "ember": "v2.9.1"
+  }
+}
